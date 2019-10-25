@@ -1,0 +1,4 @@
+Creating a custom server monitoring tools with the help of shell scripting.
+Collect the data in server.
+Sending the same data to a Centralize mysql server.
+Creating a DashBoard for the same
